@@ -63,7 +63,7 @@
   ],
   "license": "MIT",
   "main": "./lib/js/index.js",
-  "name": "react-mde",
+  "name": "react-mde-fork",
   "peerDependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
